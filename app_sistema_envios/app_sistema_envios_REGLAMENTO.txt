@@ -1,0 +1,15 @@
+======================
+====== REGLAMENTO ====
+======================
+
+ Cualquier desarrollador pueda cambiar este reglamento avisando al respecto el cambio
+
+
+=======================================
+===== CREACIÓN DE LA APLICACIÓN =======
+=======================================
+
+1) Para tener una organización de desarrollo, primeramente se debera concluir la etapa de 
+creación y testing de la db.(minimamente DDL, DML y Queries )
+
+2)....

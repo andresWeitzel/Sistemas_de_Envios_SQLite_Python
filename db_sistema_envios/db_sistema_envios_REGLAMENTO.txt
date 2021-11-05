@@ -1,0 +1,15 @@
+======================
+====== REGLAMENTO ====
+======================
+
+* Cualquier desarrollador pueda cambiar este reglamento avisando al respecto el cambio
+
+
+===============================
+===== CREACIÓN DE LA DB =======
+===============================
+
+1) Para tener una organización de desarrollo la db la iremos modularizando en archivos diferentes
+para la creación y estructura de la db en el DDL, las inserciones en el DML, etc. Investigar al respecto
+
+2)....
