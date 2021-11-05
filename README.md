@@ -15,10 +15,9 @@ Sistema Dummy de Envios  tipo CRUD con SQLite y Python
 * Si no se sabe como realizar algún paso, recomiendo primeramente leer https://guides.github.com/activities/hello-world/ , luego probar en un repositorio personal y seguido subir los cambios a este.
 
 
+</br>
 
 ## Manejo de Git
-
-
 
 ## Subir el proyecto al repositorio desde bash 
 
