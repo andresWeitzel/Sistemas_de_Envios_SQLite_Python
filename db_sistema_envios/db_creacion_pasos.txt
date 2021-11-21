@@ -1,0 +1,6 @@
+
+//Creacion db sqlite3 w10
+
+https://www.youtube.com/watch?v=X2r4Sky01lw
+
+//Tablas, DDL, DER Y RESTO POR DBEAVER
