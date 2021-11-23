@@ -59,12 +59,13 @@ Sistema Dummy de Envios  tipo CRUD con SQLite y Python
 #### 3)Confirmamos las modificaciones realizadas
 * git commit -m "tu commit entre comillas"
 
-#### 4)Sincronizamos y traemos todos los cambios del repositorio remoto a la rama en la que estemos trabajando actualmente.
-##### (SOLO SI SE REALIZARON CAMBIOS DESDE OTRA LADO, ej: en github u/o/y un equipo de trabajo)
-* git pull https://github.com/andresWeitzel/Sistemas_de_Envios_SQLite_Python
 
-#### 5)Enviamos todos los cambios locales al repo en github
-* git push https://github.com/andresWeitzel/Sistemas_de_Envios_SQLite_Python
+#### 4)Traemos los cambios del branch.
+* git pull origin 'nombreDeTuBranchSinComillas'
+
+
+#### 5)Subimos los cambios al branch.
+* git push origin 'nombreDeTuBranchSinComillas'
 
 </br>
 
