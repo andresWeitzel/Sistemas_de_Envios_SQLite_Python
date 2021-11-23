@@ -1,0 +1,9 @@
+
+*Creacion de la db sqlite3 w10 --> https://www.youtube.com/watch?v=X2r4Sky01lw
+
+*Para la creación del DDL, DML DER Y RESTO se utiliza DBEAVER como gestor de bases 
+de datos, se puede utilizar bash o cmd para hacer exactamente lo mismo, en mi caso 
+para eficientizar tiempo aplico el gestor ya mencionado.
+
+*Para poder usar los archivos sql primeramente se debera crear la db vacia, seguidamente
+ejecutar los archivos enumerados por orden mayor 01_db_sistema_envios.DDL ... etc
